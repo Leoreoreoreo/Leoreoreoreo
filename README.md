@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Leo 👋
 
-<!--
-**Leoreoreoreo/Leoreoreoreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation-focused developer transitioning into software engineering.
 
-Here are some ideas to get you started:
+## What I do
+- Build tools to reduce manual workflows
+- Focus on backend systems and automation
+- Use AI-assisted workflows to improve productivity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Heavy Processor
+- HeavyCheck
+- AutoEdit
+
+## Currently Learning
+- C#, .NET, testing, OOP
+
+## Interests
+- Workflow automation
+- Internal tools
+- Scalable systems
